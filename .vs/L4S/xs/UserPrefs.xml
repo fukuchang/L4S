@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3C12DC92-18AF-4213-55D0-D4873A7CB945}|">
+  <MonoDevelop.Ide.ItemProperties.L4S PreferredExecutionTarget="afe9388d-9780-486c-a7c8-9bb7b76e1159" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Glass.shader">
+    <Files>
+      <File FileName="Assets/SpawnScript.cs" Line="23" Column="13" />
+      <File FileName="Assets/MovingEnemy.cs" />
+      <File FileName="Assets/RandomLight.cs" Line="1" Column="1" />
+      <File FileName="Assets/Glass.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="L4S" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Glass.shader" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
